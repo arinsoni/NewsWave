@@ -11,7 +11,7 @@
     overflow: hidden;
     max-height: 3.6em;
     line-height: 1.8em;
-  }
+}
 .newsDesc {
     display: block;/* or inline-block */
     text-overflow: ellipsis;
@@ -19,4 +19,4 @@
     overflow: hidden;
     max-height: 3.6em;
     line-height: 1.8em;
-  }
+}
