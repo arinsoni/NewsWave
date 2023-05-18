@@ -6,7 +6,7 @@ const NewsItem = (props) => {
 
     return (
       <div>
-        <div className="card my-3" >
+        <div className="card my-3" style={{backgroundColor: props.mode === 'light' ? 'white': '#1E2B33', color: props.mode === 'light' ? 'black': 'white'}}>
           <div style={{display: 'flex',  justifyContent: 'flex-end', position: 'absolute', right: '0' }}>
           <span className="badge rounded-pill bg-danger" >
             {source ? source : 'Uknown'}
@@ -18,7 +18,7 @@ const NewsItem = (props) => {
 
             <p className="card-text newsDesc ">{description}...</p>
             <p className="card-text"><small className="text-muted">By {author ? author : 'Unknown'} on {new Date(date).toGMTString()} </small></p>
-            <a href={newsUrl} target="_blank" rel="noreferrer" className="btn btn-sm btn-primary">Read More</a>
+            <a href={newsUrl} target="_blank" rel="noreferrer" className="btn btn-sm btn-primary" style={{backgroundColor: props.mode === 'light' ? 'white': '#1E2B33', color: props.mode === 'light' ? 'black': 'white', borderColor: props.mode === 'light' ? 'blue' : '#F87D51'}} >Read More</a>
           </div>
         </div>
       </div>
