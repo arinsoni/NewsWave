@@ -62,3 +62,7 @@ a:hover {
 .downInfo{
     color: white;
 }
+.logo{
+    height: 60px;
+    width: 60px;
+}
