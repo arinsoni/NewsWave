@@ -141,7 +141,7 @@ And to decide when to change the state of mode I created a function ```toggleBut
 
 
 ## 🚀 About Me
-I'm Arin Soni, a passionate developer who loves building web applications. News Wave is a project that I created to showcase my skills in React JS and to provide users with a convenient way to stay updated with the latest news.
+I'm Arin Soni persuing B.Tech from **IIT Bombay**, a passionate developer who loves building web applications. News Wave is a project that I created to showcase my skills in React JS and to provide users with a convenient way to stay updated with the latest news.
 
 As an avid news consumer myself, I wanted to create a website that not only fetches news articles from a reliable API but also provides a seamless browsing experience. The features like infinite scroll, dark and light modes, and a top-loading bar were implemented to enhance user engagement and make the website user-friendly.
 
