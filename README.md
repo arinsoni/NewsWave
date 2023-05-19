@@ -2,9 +2,9 @@
 # <img src="https://github.com/arinsoni/NewsWave/assets/85981514/f7899d26-2331-43d2-a7c3-17965eb7af05" width="100" height="100"> NewsWave
 
 ## Demo
-<img src="https://github.com/arinsoni/NewsWave/assets/85981514/4f410fed-96d3-46df-a2c2-e9ce4d361d2b">
+<img src="https://s11.gifyu.com/images/demo3.gif">
 
-
+ 
 
 ## Table of Contents
 * Features
