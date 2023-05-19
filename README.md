@@ -1,5 +1,6 @@
 
-# NewsWave <img src="https://github.com/arinsoni/NewsWave/assets/85981514/f7899d26-2331-43d2-a7c3-17965eb7af05" width="100" height="100">
+# <img src="https://github.com/arinsoni/NewsWave/assets/85981514/f7899d26-2331-43d2-a7c3-17965eb7af05" width="100" height="100"> NewsWave
+
 
 A brief description of what this project does and who it's for
 
