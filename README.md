@@ -20,7 +20,6 @@ A brief description of what this project does and who it's for
 * Routing to navigate between different sections of the website
 * Top-loading bar to indicate loading progress
 
-[GitHub Pages](https://pages.github.com/)
 
 
 
@@ -28,9 +27,8 @@ A brief description of what this project does and who it's for
 
 #### Get all items
 
-```bash
+
   GET [NewsApi webpage Link](https://newsapi.org/v2/top-headlines?)&apiKey=${props.apiKey}
-```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
