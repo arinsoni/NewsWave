@@ -4,9 +4,9 @@
 A brief description of what this project does and who it's for
 
 ## Table of Contents
-<u> Text <u>  
 
-* <u>Features<u>
+
+* Features
 * Installation
 * Usage
 * Contributing
@@ -29,7 +29,7 @@ A brief description of what this project does and who it's for
 #### Get all items
 
 ```bash
-  GET https://newsapi.org/v2/top-headlines?&apiKey=${props.apiKey}
+  GET [NewsApi webpage Link](https://newsapi.org/v2/top-headlines?)&apiKey=${props.apiKey}
 ```
 
 | Parameter | Type     | Description                |
