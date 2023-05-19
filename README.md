@@ -96,8 +96,9 @@ Replace your-api-key with your actual API key.
 ```bash
 npm start
 ```
+Open your browser and visit below link to view your website
 ``` bash
-Open your browser and visit http://localhost:3000 to view the website.
+http://localhost:3000 
 ```
 
 
