@@ -27,7 +27,7 @@ A brief description of what this project does and who it's for
 
 #### Get all items
 
-```http
+```bash
   GET https://newsapi.org/v2/top-headlines?&apiKey=${props.apiKey}
 ```
 
@@ -37,7 +37,7 @@ A brief description of what this project does and who it's for
 
 #### Get item
 
-```http
+```bash
   GET {props.apiKey}&Endpoint${Endpoint}
 ```
 
