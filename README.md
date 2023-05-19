@@ -2,7 +2,11 @@
 # <img src="https://github.com/arinsoni/NewsWave/assets/85981514/f7899d26-2331-43d2-a7c3-17965eb7af05" width="100" height="100"> NewsWave
 
 ## Demo
-<img src="https://s11.gifyu.com/images/demo3.gif">
+<img src="https://github.com/arinsoni/NewsWave/assets/85981514/7d0c00c5-c025-414a-aa4b-32007b709e8d">
+
+
+
+
 
  
 
