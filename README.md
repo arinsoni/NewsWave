@@ -1,12 +1,12 @@
 
 # <img src="https://github.com/arinsoni/NewsWave/assets/85981514/f7899d26-2331-43d2-a7c3-17965eb7af05" width="100" height="100"> NewsWave
 
+## Demo
+![Screen_Recording_2023-05-19_at_10_02_35_AM_AdobeExpress](https://github.com/arinsoni/NewsWave/assets/85981514/bc41c424-61be-44ee-9214-d33f0096699a)
 
-A brief description of what this project does and who it's for
+
 
 ## Table of Contents
-
-
 * Features
 * Installation
 * Usage
@@ -73,13 +73,6 @@ Install newswave with npm
 ```bash
   npm install
 ```
-
-    
-## Demo
-
-
-
-
 ## Usage/Examples
 
 * Obtain the necessary credentials for the confidential API.
