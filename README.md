@@ -1,6 +1,6 @@
 
 # NewsWave 
-![kindpng_3969430 (1)](https://github.com/arinsoni/NewsWave/assets/85981514/f7899d26-2331-43d2-a7c3-17965eb7af05)
+![kindpng_3969430 (1)](https://github.com/arinsoni/NewsWave/assets/85981514/f7899d26-2331-43d2-a7c3-17965eb7af05 =250x250 )
 
 A brief description of what this project does and who it's for
 
