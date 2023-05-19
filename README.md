@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 ## Table of Contents
 
-* Features
+* <u>Features<u>
 * Installation
 * Usage
 * Contributing
